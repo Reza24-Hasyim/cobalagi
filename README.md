@@ -36,7 +36,7 @@ Download aplikasi termux disini [DOWNLOAD](https://play.google.com/store/apps/de
 * Apikey vhtear
 * Kontak whatsapp owner
 
-Custom di sini [SETTING](https://github.com/AgusAliansyah/vvipbot-wa/blob/master/index.js/#L13)
+Custom di sini [SETTING](https://github.com/Reza24-Hasyim/cobalagi/index.js/#L13)
 
 
 ## Penginstalan
@@ -51,8 +51,8 @@ Jika pertama kali membuka termux lakukan perintah berikut :
 ```
 Lalu clone repo
 ```bash
-> git clone https://github.com/AgusAliansyah/vvipbot-wa
-> cd vvipbot-wa
+> git clone https://github.com/Reza24-Hasyim/cobalagi
+> cd cobalagi
 ```
 Lanjutkan dengan
 ```bash
